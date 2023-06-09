@@ -1,7 +1,7 @@
 <samp>
   
 ## Who am I
-I'm an illustrator using AI.
+I'm an engineer and illustrator using AI.
   
 ## Socials
 - [twitter](https://twitter.com/naiwizard)  
