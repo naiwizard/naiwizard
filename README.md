@@ -4,8 +4,7 @@
 I'm an engineer and illustrator using AI.
   
 ## Socials
-- [twitter](https://twitter.com/naiwizard)  
+- [x](https://twitter.com/naiwizard)  
 - [pixiv](https://www.pixiv.net/en/users/87258863)  
-- ~~[fanbox](https://www.fanbox.cc/)~~ may be deprecated soon  
   
 </samp>
